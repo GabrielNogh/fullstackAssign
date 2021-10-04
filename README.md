@@ -4,7 +4,13 @@ This README would normally document whatever steps are necessary to get your app
 
 ### How to set up CONFIG
 
-Please insert a default.json file into a config folder under root. Add the following variables:
+### Important setup:
+
+1. Create config folder under backend (./backend/config)
+
+2. Create a default.json file inside config (./backend/config/default.json)
+
+3. Add the variables below with the relevant DB information:
 
 ```
 {
