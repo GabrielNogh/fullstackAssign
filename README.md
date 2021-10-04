@@ -14,9 +14,18 @@ Please insert a default.json file into a config folder under root. Add the follo
 
 ### How to run the app
 
-To run the backend run:
+1. Run backend:
 
 ```
+cd backend
+npm i
+npm run start
+```
+
+2. Run frontend:
+
+```
+cd frontend
 npm i
 npm run start
 ```
